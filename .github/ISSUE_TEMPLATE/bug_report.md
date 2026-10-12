@@ -1,5 +1,5 @@
 --- 
-name: 'Bug Report"
+name: 'Bug Report'
 about: '버그나 문제점을 보고해주세요.'
 title: '[BUG] '
 labels: 'bug'
